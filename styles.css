@@ -55,8 +55,31 @@ section
 
 .bg
 {
-    margin: 0;
-    height: 110vh;
-    width: 110vw;
+    
+    height: 110px;
+    width: 110px;
     filter: brightness(0.6)
+}
+.rock1
+{
+  position: absolute !imporatant;
+  left: 10vw !important;
+  top: 20vh !important;
+}
+
+.rock1 img
+{
+    width: 40%;
+    filter: brightness(0.5)
+}
+
+.text h1
+{
+  font-family: "AlphaCentauri" !important;
+  font-size: 5vw;
+  color: #fff;
+  position: absolute;
+  letter-spacing: 20px;
+  top: 35vh;
+  left: 34vw;
 }
