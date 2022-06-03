@@ -83,3 +83,10 @@ section
   top: 35vh;
   left: 34vw;
 }
+#sectiontwo
+{
+   width: 100%;
+   height: 100vh;
+   position: relative;
+}
+
